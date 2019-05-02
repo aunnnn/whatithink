@@ -1,24 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "What I Think"
-theme = "yinyang"
+theme = "elephants"
 
-[author]
-	name = "What I Think"
-	homepage = "https://aunnnn.com"
-
-
-[languages]
-  [languages.en]
-    contentDir = "content"
-    languageName = "English"
-    weight = 1
-
-
-[[params.socials]]
-name = "About Me"
-link = "https://aunnnn.com"
-
-[[params.socials]]
-name = "Github"
-link = "https://github.com/aunnnn"
+[params]
+  sitename = "What I think"
