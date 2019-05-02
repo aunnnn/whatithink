@@ -29,3 +29,5 @@ fields:
   label: Slug
   description: Slug
   hidden: false
+pages:
+- test.md
