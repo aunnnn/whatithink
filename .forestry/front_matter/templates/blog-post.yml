@@ -30,4 +30,4 @@ fields:
   description: Slug
   hidden: false
 pages:
-- test.md
+- content/posts/test.md
