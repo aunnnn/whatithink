@@ -29,5 +29,3 @@ fields:
   label: Slug
   description: Slug
   hidden: false
-pages:
-- you-don-t-need-to-always-have-an-opinion.md
