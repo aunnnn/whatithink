@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/people-gives-lecture-on-life-decisions-they-never-take.md
 - content/posts/people-never-learn-new-things-in-a-debate.md
 - content/posts/why-don-t-people-stop-and-think-during-conversation.md
 - content/posts/thinking-is-a-vague-action.md
