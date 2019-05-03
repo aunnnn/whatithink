@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/people-usually-give-answer-to-a-question-immediately.md
 - content/posts/remove-judgements.md
 - content/posts/remove-your-expectations.md
 - content/posts/smart-but-not-useful-is-nothing.md
