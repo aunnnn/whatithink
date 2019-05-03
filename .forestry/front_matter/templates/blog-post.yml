@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/be-confident-but-only-when-you-have-to.md
 - content/posts/people-gives-lecture-on-life-decisions-they-never-take.md
 - content/posts/people-never-learn-new-things-in-a-debate.md
 - content/posts/why-don-t-people-stop-and-think-during-conversation.md
@@ -37,7 +38,6 @@ pages:
 - content/posts/if-you-can-think-but-choose-not-to-you-don-t-have-any-advantage-over-someone-who-cannot-think.md
 - content/posts/intuitive-concepts-are-hard-to-learn.md
 - content/posts/give-without-expectation-and-never-forget-what-you-take.md
-- content/posts/be-confident-but-only-when-you-have-to.md
 - content/posts/smart-but-not-useful-is-nothing.md
 - content/posts/people-usually-give-answer-to-a-question-immediately.md
 - content/posts/remove-judgements.md
