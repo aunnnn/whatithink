@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/thinking-is-a-vague-action.md
 - content/posts/if-you-can-think-but-choose-not-to-you-don-t-have-any-advantage-over-someone-who-cannot-think.md
 - content/posts/intuitive-concepts-are-hard-to-learn.md
 - content/posts/give-without-expectation-and-never-forget-what-you-take.md
