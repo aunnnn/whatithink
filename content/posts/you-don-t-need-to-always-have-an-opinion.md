@@ -1,5 +1,5 @@
 +++
-date = "2019-05-02T07:00:00+00:00"
+date = "2019-05-03T00:00:00+00:00"
 slug = ""
 tags = []
 title = "You don’t need to always have an opinion"
