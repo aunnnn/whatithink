@@ -30,10 +30,11 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/be-confident-but-only-when-you-have-to.md
+- content/posts/smart-but-not-useful-is-nothing.md
 - content/posts/people-usually-give-answer-to-a-question-immediately.md
 - content/posts/remove-judgements.md
 - content/posts/remove-your-expectations.md
-- content/posts/smart-but-not-useful-is-nothing.md
 - content/posts/don-t-let-your-doubts-go-away.md
 - content/posts/not-all-words-that-come-out-of-smart-people-are-smart.md
 - content/posts/strive-for-high-order-gratification.md
