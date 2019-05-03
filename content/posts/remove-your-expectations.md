@@ -2,7 +2,7 @@
 date = "2019-01-03T08:00:00+00:00"
 slug = ""
 tags = []
-title = "Remove your expectations"
+title = "Remove expectations"
 
 +++
 Remove all expectations and you’ll be happy.
