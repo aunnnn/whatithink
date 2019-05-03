@@ -30,5 +30,6 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/not-all-words-that-come-out-of-smart-people-are-smart.md
 - content/posts/strive-for-high-order-gratification.md
 - content/posts/you-don-t-need-to-always-have-an-opinion.md
