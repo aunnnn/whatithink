@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/why-don-t-people-stop-and-think-during-conversation.md
 - content/posts/thinking-is-a-vague-action.md
 - content/posts/if-you-can-think-but-choose-not-to-you-don-t-have-any-advantage-over-someone-who-cannot-think.md
 - content/posts/intuitive-concepts-are-hard-to-learn.md
