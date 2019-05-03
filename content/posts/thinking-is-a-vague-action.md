@@ -1,6 +1,5 @@
 +++
 date = "2019-01-06T00:00:00+00:00"
-draft = true
 slug = ""
 tags = []
 title = "Thinking is a vague action"
