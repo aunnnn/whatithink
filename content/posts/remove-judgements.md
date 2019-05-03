@@ -2,7 +2,7 @@
 date = "2017-12-10T08:00:00+00:00"
 slug = ""
 tags = []
-title = "Remove judgements (you would give)"
+title = "Remove judgements"
 
 +++
 Judgements here are _unscientific assumptions_ on how the world works. They're "rules of the world" you accumulate over lifetime, to efficiently make quick response and navigate your life.
