@@ -13,9 +13,10 @@ Most of the time these rules and reasonings are wrong. E.g:
 * "He is smart, he must be born that way."
 * "You're a bad person if you don't believe in <religion>. See, she is a doctor and she also believes in <religion>."
 * "___ is bad (I heard from someone)."
+* "She can't drive, she's still a kid"
 
-It's sad how a lot of people just make a false reasoning up on their own, **think it's right, believe in it immediately, then hold on to it for dear life.**
+It's sad how a lot of people just make reasoning on their own, **think it's right, believe in it immediately, then hold on to it for dear life.**
 
 Before adding a rule to the decision-making part of your brain, think carefully if it can be concluded that way.
 
-Also, [remove expectations.]({{< ref "/posts/remove-your-expectations" >}})
+Also, \[remove expectations.\]({{< ref "/posts/remove-your-expectations" >}})
