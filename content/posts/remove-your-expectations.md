@@ -20,4 +20,4 @@ But when it comes to your own actions, which is _the only thing you can control 
 
 **Don’t expect anything outside your own control.**
 
-{{< ref "/posts/remove-judgements" >}}
+Also, [remove judgements.]({{< ref "/posts/remove-judgements" >}})

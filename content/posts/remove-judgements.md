@@ -17,3 +17,5 @@ Most of the time these rules and reasonings are wrong. E.g:
 It's sad how a lot of people just make a false reasoning up on their own, **think it's right, believe in it immediately, then hold on to it for dear life.**
 
 Before adding a rule to the decision-making part of your brain, think carefully if it can be concluded that way.
+
+Also, [remove expectations.]({{< ref "/posts/remove-your-expectations" >}})
