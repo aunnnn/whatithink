@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/don-t-structure-things-that-can-t-be-structured.md
 - content/posts/hesistate-choose-productive-beliefs.md
 - content/posts/labeling-is-opportunity-for-inaccurate-interpretations.md
 - content/posts/play-by-the-rules-of-the-game-to-get-optimal-result.md
