@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/labeling-is-opportunity-for-inaccurate-interpretations.md
 - content/posts/play-by-the-rules-of-the-game-to-get-optimal-result.md
 - content/posts/don-t-finalize-your-thoughts.md
 - content/posts/people-don-t-listen-to-each-other.md
