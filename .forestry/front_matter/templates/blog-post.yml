@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/don-t-finalize-your-thoughts.md
 - content/posts/people-don-t-listen-to-each-other.md
 - content/posts/every-people-speak-their-own-language.md
 - content/posts/be-confident-but-only-when-you-have-to.md
