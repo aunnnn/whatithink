@@ -1,5 +1,5 @@
 +++
-date = "2019-05-04T07:00:00+00:00"
+date = "2019-05-04T10:15:00+00:00"
 slug = ""
 tags = []
 title = "Hesistate? Choose productive beliefs"
