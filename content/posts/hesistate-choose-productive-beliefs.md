@@ -2,7 +2,7 @@
 date = "2019-05-04T10:15:00+00:00"
 slug = ""
 tags = []
-title = "Hesistate? Choose productive beliefs"
+title = "Ddopt a productive belief."
 
 +++
 When there's a thing you're unsure about its scientific facts, choose one that is productive for you. One that gets you optimal results.
