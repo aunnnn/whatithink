@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/every-people-speak-their-own-language.md
 - content/posts/be-confident-but-only-when-you-have-to.md
 - content/posts/people-gives-lecture-on-life-decisions-they-never-take.md
 - content/posts/people-never-learn-new-things-in-a-debate.md
