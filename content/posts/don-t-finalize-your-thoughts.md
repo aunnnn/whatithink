@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2019-05-04T07:00:00+00:00"
 slug = ""
 tags = []
 title = "Don't finalize your thoughts"
