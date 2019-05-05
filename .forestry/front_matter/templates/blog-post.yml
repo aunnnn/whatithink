@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/if-you-can-t-do-then-you-re.md
 - content/posts/by-writing-down-we-lose-hierarchy-of-knowledge.md
 - content/posts/if-you-don-t-decide-time-will.md
 - content/posts/never-decide-just-choose-one-action-to-act-on.md
