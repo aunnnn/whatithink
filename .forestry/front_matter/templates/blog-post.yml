@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/admit-what-you-don-t-know.md
 - content/posts/if-you-can-t-do-then-you-re.md
 - content/posts/if-you-have-fun-working-you-re-not-learning.md
 - content/posts/by-writing-down-we-lose-hierarchy-of-knowledge.md
