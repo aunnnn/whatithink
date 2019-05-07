@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/give-without-expectation-and-never-forget-what-you-take.md
 - content/posts/admit-what-you-don-t-know.md
 - content/posts/if-you-can-t-do-then-you-re.md
 - content/posts/if-you-have-fun-working-you-re-not-learning.md
@@ -50,7 +51,6 @@ pages:
 - content/posts/thinking-is-a-vague-action.md
 - content/posts/if-you-can-think-but-choose-not-to-you-don-t-have-any-advantage-over-someone-who-cannot-think.md
 - content/posts/intuitive-concepts-are-hard-to-learn.md
-- content/posts/give-without-expectation-and-never-forget-what-you-take.md
 - content/posts/smart-but-not-useful-is-nothing.md
 - content/posts/people-usually-give-answer-to-a-question-immediately.md
 - content/posts/remove-judgements.md
