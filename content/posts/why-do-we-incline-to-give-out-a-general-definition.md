@@ -2,7 +2,7 @@
 date = "2017-05-22T07:00:00+00:00"
 slug = ""
 tags = []
-title = "Why do we incline to give out a general definition?"
+title = "Why are we inclined to give out 'general' definition?"
 
 +++
 So imagine when we’re asked what is a dog, how can we answer this? Most people will answer something along the lines of “A dog is an animal which…”. What is iPhone? "iPhone is a phone that ..." etc.
