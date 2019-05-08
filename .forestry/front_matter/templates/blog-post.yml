@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/why-do-we-incline-to-give-out-a-general-definition.md
 - content/posts/every-path-you-choose-will-lead-to-the-best-decision-i-made.md
 - content/posts/every-people-speak-their-own-language.md
 - content/posts/by-writing-down-we-lose-hierarchy-of-knowledge.md
