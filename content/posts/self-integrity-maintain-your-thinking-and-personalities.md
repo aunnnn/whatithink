@@ -2,7 +2,7 @@
 date = "2019-05-11T07:32:00+00:00"
 slug = ""
 tags = []
-title = "Self-integrity: Maintain your thinking and personalities"
+title = "Self-Integrity: Maintain your thinking and personalities"
 
 +++
 We tend to change, both in how we think and our personalities, as we grow old. That's normal.
