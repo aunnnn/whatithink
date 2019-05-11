@@ -12,3 +12,5 @@ We tend to change, both in how we think and our personalities, as we grow old. T
 It's not that easy. **It's natural to move towards the bad paths, if not evil**. For example, as you get more knowledge and more skills, you will naturally become less humble, more confidence.
 
 **You have to make an extra effort to resist it.** That's why we're human. We can choose to walk paths that agree with our principles and values.
+
+Violating the self-integrity is like you're constantly lying of (good) things you used to do in the past.
