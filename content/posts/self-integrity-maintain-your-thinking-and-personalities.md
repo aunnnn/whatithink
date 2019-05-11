@@ -7,7 +7,7 @@ title = "Self-integrity: Maintain your thinking and personalities"
 +++
 We tend to change, both in how we think and our personalities, as we grow old. That's normal.
 
-But be sure to maintain the good parts. If you're already humble, good, stay humble no matter how old you are.
+**But be sure to maintain the good parts.** If you're already humble, good, stay humble no matter how old you are.
 
 It's not that easy. **It's natural to move towards the bad paths, if not evil**. For example, as you get more knowledge and more skills, you will naturally become less humble, more confidence.
 
