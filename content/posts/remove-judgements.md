@@ -19,4 +19,4 @@ It's sad how a lot of people just make reasoning on their own, **think it's righ
 
 Before adding a rule to the decision-making part of your brain, think carefully if it can be concluded that way.
 
-Also, \[remove expectations.\]({{< ref "/posts/remove-your-expectations" >}})
+Also, [remove expectations.]({{< ref "/posts/remove-your-expectations" >}})
