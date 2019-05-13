@@ -2,6 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "What I Think"
 theme = "elephants"
+googleAnalytics = "UA-96078689-5"
 
 [params]
   sitename = "What I think"
