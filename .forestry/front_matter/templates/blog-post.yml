@@ -30,6 +30,7 @@ fields:
   description: Slug
   hidden: false
 pages:
+- content/posts/being-natural-is-not-the-way-you-conduct-yourself.md
 - content/posts/self-integrity-maintain-your-thinking-and-personalities.md
 - content/posts/why-do-we-incline-to-give-out-a-general-definition.md
 - content/posts/every-path-you-choose-will-lead-to-the-best-decision-i-made.md
