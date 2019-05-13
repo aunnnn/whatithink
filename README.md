@@ -1,2 +1,2 @@
 # whatithink
-What I think
+[What I think](whatithink.netlify.com)
