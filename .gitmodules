@@ -7,3 +7,6 @@
 [submodule "themes/elephants"]
 	path = themes/elephants
 	url = https://gitlab.com/meibenny/elephants.git
+[submodule "themes/my-elephants"]
+	path = themes/my-elephants
+	url = https://github.com/aunnnn/elephants-fork.git
