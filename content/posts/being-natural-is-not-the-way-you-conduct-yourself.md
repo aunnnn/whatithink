@@ -9,4 +9,4 @@ Being natural, or doing what feels good, means you’re no better than wild anim
 
 **We have to put an effort to maintain them ourselves.** It’s not something you expect to feel good, easy, or natural to do.
 
-One such value is \[self-integrity.\]({{< ref "/posts/self-integrity-maintain-your-thinking-and-personalities" >}})
+One such value is [self-integrity.]({{< ref "/posts/self-integrity-maintain-your-thinking-and-personalities" >}})
