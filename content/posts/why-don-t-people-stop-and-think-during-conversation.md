@@ -5,10 +5,10 @@ tags = []
 title = "Why don’t people stop and think during conversation?"
 
 +++
-We seem to understand everything our conversational partner says. 
+We seem to understand everything someone says right away.
 
-Why don’t we sometimes be honest, to say something like “Interesting, I don’t know how to reply, let me stop and think”?
+Why don’t we sometimes be honest, and say something like “Interesting, I don’t know how to reply, let me stop and think”, **"What do you mean by that?"**, or "When you say that word_,_ what do you actually mean"?
 
-Instead, we interpret how we like, then move only quickly to the conversation.
+Instead, we directly interpret how we like it to be, then move on quickly to continue the conversation, in a wrong way.
 
-This is also true in interview of smart people, when they give insightful answers but the interviewer interprets naively and in simple way, to just move on to the next question.
+These misunderstandings can be seen in interviews of many great people with radical thoughts. When they give insightful answer, the interviewer interprets it naively, in a simplistic way, and move on to the next question.
