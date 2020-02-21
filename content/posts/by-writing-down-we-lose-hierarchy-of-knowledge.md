@@ -1,5 +1,5 @@
 +++
-date = "2017-10-08T13:00:00+00:00"
+date = 2017-10-08T13:00:00Z
 slug = ""
 tags = []
 title = "By writing down, we lose hierarchy of knowledge "
@@ -15,4 +15,4 @@ Transforming knowledge from your head down to texts is a good way to lose all su
 
 The hard work is on the readers, who have to reconstruct and guess the original hierarchy of knowledge.
 
-That's why it's hard to read math, or scientific papers. We just pour down things that we have to cover in order to publish it. The goal is not for comprehension.
+That's why it's hard to read math, or scientific papers. We just pour down things that we have to cover in order to publish it, especially when the goal is not for comprehension.
