@@ -6,3 +6,15 @@ googleAnalytics = "UA-96078689-5"
 
 [params]
   sitename = "What I think"
+  
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
