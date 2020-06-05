@@ -10,4 +10,6 @@ This is my code:
 ```python
 def hello(num):
   print(num)
+  
+x = hello(200)
 ```
