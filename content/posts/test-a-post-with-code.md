@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-06-04T07:00:00Z
 slug = ""
 tags = []
 title = "Test a post with code"
